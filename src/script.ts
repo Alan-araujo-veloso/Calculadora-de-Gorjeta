@@ -14,4 +14,4 @@ const gorjeta: number = valorConta * 0.10;
 textoResultado.textContent = `A gorjeta de 10% é: R$ ${gorjeta.toFixed(2)}`;
 }
 
-botaoCalcular.addEventListener("Click", calcularGorjeta);
+botaoCalcular.addEventListener("click", calcularGorjeta);
