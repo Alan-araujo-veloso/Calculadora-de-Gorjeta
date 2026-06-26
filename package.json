@@ -3,6 +3,9 @@
     "version": "1.0.0",
     "scripts": {
         "dev": "tsc -w",
-        "build": "tsc"
+        "build": "npx tsc"
+    },
+    "devDependencies": {
+        "typescript": "^6.0.3"
     }
 }
