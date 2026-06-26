@@ -2,6 +2,7 @@
     "name": "calculadora-gorjeta",
     "version": "1.0.0",
     "scripts": {
-        "dev": "tsc -w"
+        "dev": "tsc -w",
+        "build": "tsc"
     }
 }
